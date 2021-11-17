@@ -1,0 +1,33 @@
+{
+	"fileName": "id_1636549392168_274_stashControl",
+	"fileType": "change",
+	"changeType": "stashControl",
+	"moduleName": "",
+	"reference": "customer.demoAdaptation",
+	"packageName": "$TMP",
+	"content": {},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage.new::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--customer.demoAdaptation.idEditForm",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage.new/changes/",
+	"projectId": "customer.demoAdaptation",
+	"creation": "2021-11-10T13:03:12.739Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1636549392168_275_composite",
+		"command": "remove"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

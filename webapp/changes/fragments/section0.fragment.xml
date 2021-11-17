@@ -1,0 +1,14 @@
+<!-- Use stable and unique id's!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns:uxap='sap.uxap' xmlns='sap.m'>
+    <uxap:ObjectPageSection id="idSection0" title="section0">
+        <uxap:sunSections>
+            <uxap:ObjectPageSubSection id="idSection0SubSection00" title="SubSection0">
+                <uxap:blocks>
+                    <VBox id="idVbox0">
+                        <Text id="idSubSection0Text" text="SubSecrion0"></Text>
+                    </VBox>
+                </uxap:blocks>
+            </uxap:ObjectPageSubSection>
+        </uxap:sunSections>
+    </uxap:ObjectPageSection>
+</core:FragmentDefinition>

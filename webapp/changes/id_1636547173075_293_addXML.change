@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1636547173075_293_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/demoAdaptation/changes/fragments/EditForm.fragment.xml",
+	"reference": "customer.demoAdaptation",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "actions",
+		"index": 7,
+		"fragmentPath": "fragments/EditForm.fragment.xml"
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage.new::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--objectPageHeader",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage.new/changes/",
+	"projectId": "customer.demoAdaptation",
+	"creation": "2021-11-10T12:26:14.263Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
